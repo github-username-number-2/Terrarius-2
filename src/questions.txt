@@ -1,1 +1,0 @@
-How to use enum as alias for literal values (Using BlockTypes::Grass to represent literal 1)
